@@ -1,12 +1,7 @@
 # Geek-A-Thon - GeeksForGeeks
 
-## Data analysis
+## Data analysis on olympics data
 
-```
-Walkthrough by
-Shaswata Saha
-04-07-2023
-```
 
 ## Problem Statement
 
