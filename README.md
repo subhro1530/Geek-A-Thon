@@ -32,8 +32,6 @@ Here's how we have leveraged social media sentiment analysis during the Olympics
 
 5.  _Informing Athlete and Sponsorship Decisions_: Social media sentiment analysis have helped identify athletes who have a strong positive public sentiment. This information have been valuable for endorsement opportunities and sponsorship decisions, as companies may prefer to associate their brands with athletes who have a positive public image.
 
-6.  _Crisis Management and Response_: In case of any negative incidents or crises during the Olympics, social media sentiment analysis have help assess the impact and guide crisis management strategies. By understanding the sentiment and volume of social media conversations surrounding the issue, stakeholders have responded effectively and addressed concerns promptly.
-
 It's important to note that social media sentiment analysis should be complemented with other data sources and qualitative analysis to gain a comprehensive understanding of public opinion. Additionally, choosing reliable sentiment analysis tools or developing custom models trained on Olympic-specific data have improved the accuracy of the sentiment analysis results.
 
 By leveraging social media sentiment analysis, Olympic stakeholders have gained valuable insights into public perception, enhanced fan engagement strategies, and made data-driven decisions to optimize marketing, sponsorship, and crisis management efforts.
