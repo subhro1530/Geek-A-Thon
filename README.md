@@ -2,7 +2,7 @@
 
 ## Data analysis on olympics data
 
-### View on [Google Collab](https://colab.research.google.com/drive/1OETtJ44aaIrR9xBOVaWnK6vdlZF0mDdj?usp=sharing)
+### View on [Google Collab](https://colab.research.google.com/drive/1zmIwUhKTxkUnliRCSKcORGiFpwRFNjKU?usp=sharing)
 
 ## Problem Statement
 
@@ -38,5 +38,6 @@ By leveraging social media sentiment analysis, Olympic stakeholders have gained 
 
 # Bibliography:
 
-(Google Colab)[https://colab.research.google.com/drive/1OETtJ44aaIrR9xBOVaWnK6vdlZF0mDdj#scrollTo=eO5Flzwaysn4]
-(GitHub)[https://github.com/subhro1530/Geek-A-Thon.git]
+1.  (Google Colab)[https://colab.research.google.com/drive/1OETtJ44aaIrR9xBOVaWnK6vdlZF0mDdj#scrollTo=eO5Flzwaysn4]
+2.  (GitHub)[https://github.com/subhro1530/Geek-A-Thon.git]
+3.  (YouTube)[https://youtu.be/GnDJDz6unxQ]
